@@ -17,9 +17,9 @@ Je suis élève ingénieure en première année à l'**INPT Rabat**. Passionnée
 
 
 ### 🔭 Current Focus
-- 🎓 Spécialisation en **Génie Logiciel** à l'INPT Rabat[cite: 1].
-- 🔍 À la recherche d'un **stage d'initiation** pour renforcer mes compétences professionnelles[cite: 1].
-- 💡 Exploration des architectures orientées objet et des méthodologies Agiles (Scrum)[cite: 1].
+- 🎓 Spécialisation en **Génie Logiciel** à l'INPT Rabat.
+- 🔍 À la recherche d'un **stage d'initiation** pour renforcer mes compétences professionnelles.
+- 💡 Exploration des architectures orientées objet et des méthodologies Agiles (Scrum).
 
 ---
 
