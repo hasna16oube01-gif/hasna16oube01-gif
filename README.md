@@ -24,7 +24,7 @@ Je suis élève ingénieure en première année à l'**INPT Rabat**. Passionnée
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/hassna-oubenaali/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassna-oubenaali-b788003a4/)
 - 📧 [hasnal6oube01@gmail.com](mailto:hasnal6oube01@gmail.com)
 
 ---
