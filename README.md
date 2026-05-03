@@ -1,7 +1,7 @@
 # Hello, I'm Hassna OUBENAALI 👋
 
 ### 🚀 Software Engineering Student @ INPT | Full-stack & AI Enthusiast.
-- I am a first-year **Software Engineering** student at **INPT Rabat**. Passionate about modern web development, I enjoy integrating - - **AI solutions** to create unique user experiences.
+- I am a first-year **Software Engineering** student at **INPT Rabat**. Passionate about modern web development, I enjoy integrating **AI solutions** to create unique user experiences.
 ---
 
 ### 🛠 Tech Stack & Tools
