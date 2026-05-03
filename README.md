@@ -29,5 +29,4 @@ Je suis élève ingénieure en première année à l'**INPT Rabat**. Passionnée
 
 ---
 
-### 📊 My GitHub Stats
-![Hassna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasna16oube01-gif&show_icons=true&theme=radical)
+
